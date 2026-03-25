@@ -3,7 +3,7 @@
 AI-powered voice agent for post-discharge patient follow-up in 14 Indian languages.
 
 ## Features
-- 🎤 14 Indian languages (Hindi, Tamil, Telugu, Bengali, etc.)
+- 🎤 5+ Indian languages (Hindi, Tamil, Telugu, Bengali, etc.)
 - 📞 Real phone calls via Twilio
 - 💬 14 health check-in questions
 - 🚨 Emergency detection and escalation
@@ -29,12 +29,20 @@ AI-powered voice agent for post-discharge patient follow-up in 14 Indian languag
 
 ## Environment Variables
 - `OPENAI_API_KEY` - OpenAI API key
+- `ELEVENLAB_API_KEY` - Eleven lab API key
+- `ELEVEN_LAB_VOICE_ID` - eleven lab voice id
 - `TWILIO_ACCOUNT_SID` - Twilio account SID
 - `TWILIO_AUTH_TOKEN` - Twilio auth token
 - `TWILIO_PHONE_NUMBER` - Twilio phone number
+- `NGROK_URL` - ngrok url
 
 ## Team
-- [Your Name] - Developer
+- Team: Wellness Warrior
+- 
+## Developer
+- praveen avasthi
+- rohit harode
+- rashmi buade
 
 ## License
 MIT
