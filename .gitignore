@@ -1,0 +1,32 @@
+# Virtual environments
+.venv/
+venv/
+venv_*/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Local data
+schedule_data.json
+test_*.mp3
+*.log
+
+# Hackathon submissions
+submission.csv
+
+# OS files
+.DS_Store
+Thumbs.db
